@@ -6,11 +6,11 @@ Its purpose is to demonstrate practical understanding of cryptographic concepts 
 
 ## 📘 Overview
 
-The main file in this repository is the **`problems.ipynb`** notebook, which contains my solutions to a series of cryptography-related programming problems.  
-Each problem is introduced with a Markdown explanation, followed by clean, well-commented Python code and logical reasoning for each step.
+The main file in this repository is the **`problems.ipynb`** notebook, which contains my solutions to a series of cryptography related programming problems.  
+Each problem is introduced with a Markdown explanation, followed by clean, well commented Python code and logical reasoning for each step.
 
 The goal of this repository is to:
-- Develop clear and reproducible Python code for a variety of cryptographic and coputing problems.
+- Develop clear and reproducible Python code for a variety of cryptographic and computing problems.
 - Explain the logic behind cryptographic functions (especially those used in SHA-256).
 - Show consistent progress and understanding throughout the semester.
 - Show self learning, research and motivation throughout the semester. 
