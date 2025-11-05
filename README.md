@@ -16,6 +16,15 @@ The goal of this repository is to:
 - Show self learning, research and motivation throughout the semester. 
 
 
+## 🔒 Secure Hash Standard (SHA)
+
+A big part of this repository revolves around the **Secure Hash Standard (SHA)**, which is the official specification for cryptographic hash functions published by NIST (National Institute of Standards and Technology). SHA-256, in particular, is the core algorithm behind many modern security systems, like SSL/TLS, digital signatures, and password hashing.  
+
+The standard defines exactly how to transform input data into a fixed-size 256-bit hash, using a combination of bitwise operations, rotations, shifts, and mathematical constants. Understanding and implementing the functions in SHA-256 is the main focus of the notebook in this repository.  
+
+For reference, you can check out the full document here: [NIST FIPS 180-4 Secure Hash Standard](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.180-4.pdf)
+
+
 ## ⚙️ How to Run
 
 1. Clone or download this repository.
