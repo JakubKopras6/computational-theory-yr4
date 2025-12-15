@@ -1,0 +1,8 @@
+#The notebook is quite lean in terms of dependencies since SHA-256 implementation relies 
+#primarily on bitwise operations and NumPy's uint32 type. I specified numpy>=1.21.0 to 
+#ensure compatibility with modern Python versions.
+
+#hashlib - Standard library for hash verification no install needed
+#warnings - Standard library for managing warnings no install needed
+
+numpy>=1.21.0
