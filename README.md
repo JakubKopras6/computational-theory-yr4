@@ -4,7 +4,7 @@
 [![NumPy](https://img.shields.io/badge/numpy-%3E%3D1.21.0-orange.svg)](https://numpy.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A complete dice into the **SHA-256 cryptographic hash function** in Python, built for educational purposes as part of the Computational Theory module (Year 4).
+A complete dive into the **SHA-256 cryptographic hash function** in Python, built for educational purposes as part of the Computational Theory module (Year 4).
 
 This project demonstrates an understanding of cryptographic primitives by implementing components of SHA-256 according to the official [NIST FIPS 180-4 Secure Hash Standard](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.180-4.pdf).
 
